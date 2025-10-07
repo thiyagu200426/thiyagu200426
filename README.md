@@ -1,4 +1,4 @@
-# Hi, I'm Thiyagarajan varadharajan👋
+# Hi, I'm Thiyagarajan varadharajan 👋
 
 **Aspiring AI & Python Full Stack Developer**  
 Chennai, India
