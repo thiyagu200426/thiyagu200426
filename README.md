@@ -77,7 +77,7 @@ Currently, I'm diving deep into NLP, LLMs, and prompt engineering to create smar
 ## 📫 Connect with Me
 
 - Email: thiyagu2004nanni@gmail.com
-- LinkedIn: [thiyagarajan V] (https://www.linkedin.com/in/thiyagarajan-v-9b3b34373/)
+- LinkedIn: [thiyagarajan V] (https://www.linkedin.com/in/thiyagu26v/)
 - GitHub: [thiyagu200426](https://github.com/thiyagu200426)
 
 ---
